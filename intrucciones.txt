@@ -1,0 +1,40 @@
+del sistema primero estudia
+Comercial > Clientes/Empresa
+Comercial > Comparativa de proveedores
+Comercial > Cotizacion
+Esos 3 programas en ese orden
+
+http://89.117.52.90/demo
+user: admin
+pass: 123..
+
+
+https://www.youtube.com/watch?v=YOaC_TyOrdk&t=74s
+
+INSTALAR GEOSERVER:
+fuente:https://youtu.be/M4whgv-kg_c?si=O5mcadKFgrHLEoJ4
+
+PAGINA DE LEAFLEFTJS
+https://leafletjs.com/examples/quick-start/
+ICONOS EN IMAGEN PNG:
+https://www.flaticon.es/
+
+https://github.com/Norkart/Leaflet-MiniMap
+geoserver
+https://docs.geoserver.org/latest/en/user/installation/win_binary.html
+https://docs.carto.com/carto-user-manual/maps/basemaps
+
+cuenta oracle:
+Enrique-25996@outlook.com
+217083927Enrique.
+
+generar geojason
+https://geojson.io/
+fuente: https://youtu.be/A32HNVgcMkE?si=D-_3dTQtzy_cbV3f
+
+http://localhost:8080/geoserver
+login geoserver
+admin
+geoserver
+
+
